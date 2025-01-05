@@ -34,14 +34,14 @@ print(f"Teks dalam huruf besar: {huruf_besar}")
 print(f"Teks dalam huruf kecil: {huruf_kecil}")
 print(f"Teks setelah mengganti H dengan J: {ganti_h_j}")
 
-LATIHAN 2
+# LATIHAN 2
 
 umur = 24
 txt = 'Hello, nama saya John, dan umur saya adalah {} tahun'
 
 print(txt.format(umur))
 
-LATIHAN 3
+# LATIHAN 3
 
 import re
 
